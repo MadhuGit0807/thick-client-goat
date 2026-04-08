@@ -1,3 +1,7 @@
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/931d10e0-5dd4-46d7-9bde-a62acd6bcc09" />
+
+
+
 # ThickClientGoat
 
 A vulnerable thick client application built for practicing
