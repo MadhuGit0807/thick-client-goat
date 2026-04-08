@@ -26,4 +26,4 @@ Password: admin123
 - Reverse engineering basics
 
 ## Disclaimer
-For educational purposes only.
+                             >>>>>>>>> For educational purposes only.>>>>>>>>>>>>>>>>>>
